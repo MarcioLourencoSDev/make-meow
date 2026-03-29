@@ -1,0 +1,7 @@
+TO DO:
+1- DESENVOLVER BOTÃO;
+2- SISTEMA DE PORTAS;
+3- SISTEMAS DE VIDA PELA TROCA DE GATOS;
+4- hud de vida;
+5- profundidade;
+6- sistema de camera durante a troca de gatos;

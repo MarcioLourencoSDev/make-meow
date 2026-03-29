@@ -1,0 +1,1 @@
+global.botoes_apertados = 0; // Contabiliza quantidade de botoes
