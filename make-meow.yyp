@@ -40,7 +40,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.4.221",
+    "IDEVersion":"2024.14.4.222",
   },
   "name":"make-meow",
   "resources":[
@@ -52,6 +52,7 @@
     {"id":{"name":"obj_fade_out","path":"objects/obj_fade_out/obj_fade_out.yy",},},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
     {"id":{"name":"obj_vida","path":"objects/obj_vida/obj_vida.yy",},},
+    {"id":{"name":"obj_zone","path":"objects/obj_zone/obj_zone.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"scr_miar","path":"scripts/scr_miar/scr_miar.yy",},},

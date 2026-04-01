@@ -32,6 +32,7 @@
     {"name":"obj_fade_in","order":6,"path":"objects/obj_fade_in/obj_fade_in.yy",},
     {"name":"obj_fade_out","order":5,"path":"objects/obj_fade_out/obj_fade_out.yy",},
     {"name":"obj_vida","order":3,"path":"objects/obj_vida/obj_vida.yy",},
+    {"name":"obj_zone","order":7,"path":"objects/obj_zone/obj_zone.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"spr_cat_atenas_idle","order":1,"path":"sprites/spr_cat_atenas_idle/spr_cat_atenas_idle.yy",},
     {"name":"spr_cat_pretinho_idle_longtime","order":1,"path":"sprites/spr_cat_pretinho_idle_longtime/spr_cat_pretinho_idle_longtime.yy",},
