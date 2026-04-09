@@ -52,14 +52,7 @@ else{
 if(meow && estado_atual != ESTADOS.MEOW){
 	image_index = 0;
 	estado_atual = ESTADOS.MEOW;
-	vida--;
-	with(obj_vida){
-		if(image_index == 0){
-			image_index = 1;
-			 obj_Player.total_mortes++;
-			break;
-		}
-	}
+	perda_coracao(vida);
 }
 #endregion
 

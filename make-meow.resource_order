@@ -39,6 +39,7 @@
     {"name":"obj_vida","order":3,"path":"objects/obj_vida/obj_vida.yy",},
     {"name":"obj_zone","order":2,"path":"objects/obj_zone/obj_zone.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"scr_perda_coracao","order":1,"path":"scripts/scr_perda_coracao/scr_perda_coracao.yy",},
     {"name":"spr_cat_atenas_idle","order":1,"path":"sprites/spr_cat_atenas_idle/spr_cat_atenas_idle.yy",},
     {"name":"spr_cat_pretinho_idle_longtime","order":1,"path":"sprites/spr_cat_pretinho_idle_longtime/spr_cat_pretinho_idle_longtime.yy",},
     {"name":"spr_cat_yoshi_idle_longtime","order":1,"path":"sprites/spr_cat_yoshi_idle_longtime/spr_cat_yoshi_idle_longtime.yy",},

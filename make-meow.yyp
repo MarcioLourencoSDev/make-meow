@@ -64,6 +64,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"scr_miar","path":"scripts/scr_miar/scr_miar.yy",},},
+    {"id":{"name":"scr_perda_coracao","path":"scripts/scr_perda_coracao/scr_perda_coracao.yy",},},
     {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
     {"id":{"name":"spr_cat_atenas_idle_longtime","path":"sprites/spr_cat_atenas_idle_longtime/spr_cat_atenas_idle_longtime.yy",},},
     {"id":{"name":"spr_cat_atenas_idle","path":"sprites/spr_cat_atenas_idle/spr_cat_atenas_idle.yy",},},
