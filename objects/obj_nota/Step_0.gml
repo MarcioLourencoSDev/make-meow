@@ -1,2 +1,8 @@
-dir = point_direction(x,y, obj_Player.x, obj_Player.y); // Direção
-motion_add(dir, 0.04) // Atribuindo velocidade
+with(obj_Player){
+	if(controlado){
+		with(obj_nota){
+				var dir = point_direction(x, y, other.x, other.y);
+				motion_add(dir, spd);
+		}
+	}
+}
